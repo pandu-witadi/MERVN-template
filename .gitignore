@@ -1,0 +1,8 @@
+node_modules
+client_react/node_modules
+client_react/build
+client_react/.git
+client_vue/node_modules
+client_vue/dist
+client_vue/.git
+.env
